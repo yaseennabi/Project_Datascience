@@ -9,8 +9,6 @@
             <li>Gradient Boosting Classifier</li>
             <li>Random Forest</li>
         </ul>
-        <p>Code:</p>
-        <div class="code">
         </div>
     </div>
 </body>
